@@ -8,3 +8,5 @@ def areaCuadrado(lado):
 def areaTriangulo(base, altura):
     area = (base*altura)/2
     return area
+
+#HOLA
