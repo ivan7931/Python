@@ -1,0 +1,2 @@
+Accesos permitidos: 3
+Accesos denegados: 4
